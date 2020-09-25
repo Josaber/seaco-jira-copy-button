@@ -1,0 +1,15 @@
+## References
+
+- [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+- [JS Console](https://developer.mozilla.org/en-US/docs/Web/API/console)
+- [Develop Extensions](https://developer.chrome.com/extensions/devguide)
+- [Chrome Extensions](https://developer.chrome.com/extensions)
+- [Chrome Extensions Manifest](https://developer.chrome.com/extensions/manifest)
+- [Chrome Sample Extensions](https://developer.chrome.com/extensions/samples)
+- [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- [Browser Extensions Manifest](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
+- [ExecuteScript](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/executeScript)
+- [QuerySelector](https://developer.mozilla.org/en-US/docs/Web/API/Element/querySelector)
+- [Element After](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/after)
+- [Element Append](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
+- [AUI Buttons](https://docs.atlassian.com/aui/8.6.0/docs/buttons.html)
